@@ -56,8 +56,8 @@
     transition: .4s all ease-in-out;
 }
 .img{
-    width: 650px;
-    height: 650px;
+    width: 350px;
+    height: 350px;
     text-align: center;
 }
 .texto:hover img{
